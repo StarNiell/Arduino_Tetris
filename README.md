@@ -1,6 +1,6 @@
 # Description
 This project is a simple and common sketch for Arduino UNO of the hystoric "Tetris Game". 
-The source cade was hinerit from other common source code available on internt with a very few changes, as the "GAME OVER" label at the end of every game.
+The source c0de was hinerit from other common source code available on internt with a very few changes, as the "GAME OVER" label at the end of every game.
 
 
 ## Component List
